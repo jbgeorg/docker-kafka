@@ -6,7 +6,7 @@
 # major Java projects test and recommend Oracle Java for production for optimal
 # performance.
 
-FROM netflixoss/java:7
+FROM netflixoss/java:8
 MAINTAINER Ches Martin <ches@whiskeyandgrits.net>
 
 # The Scala 2.10 build is currently recommended by the project.
